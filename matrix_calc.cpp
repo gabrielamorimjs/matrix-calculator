@@ -1,4 +1,3 @@
-// simple matrix calculator
 #include <iostream>
 #include <cstdlib>
 #include <limits>
